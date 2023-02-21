@@ -1,0 +1,33 @@
+@font-face {
+  font-family: Billiony;
+  src: url("Billiony.otf") format("opentype");
+}
+
+body {
+  background: linear-gradient(90deg, #71efa3 50%, #d4ecdd 50%);
+}
+
+.Billiony {
+  font-family: Billiony;
+  color: #152d35;
+}
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.sec-1-img {
+  border-radius: 10px;
+}
+
+.c1-my {
+  color: #152d35;
+}
+
+.comic {
+  font-family: "Comic Neue", cursive;
+}
+
+.bg-my{
+  background-color: #7ECA9C;
+}
